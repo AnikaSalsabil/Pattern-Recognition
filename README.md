@@ -1,4 +1,4 @@
-#Course Name: 	Pattern Recognition Lab
+#Pattern Recognition Lab
 #Course No: CSE 4214
 
 
